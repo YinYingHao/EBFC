@@ -27,5 +27,5 @@ Next, you can easily obtain the results after the following two steps.
 Then, you can click the ‘Start’ button to run the program.
 
 3. Output results  
-After the program finishes, you can obtain the following four files. These files are stored in the folder named Output_results within the directory where the software is saved.  
+After the program finishes, you can obtain the following one file. These files are stored in the folder named Output_results within the directory where the software is saved.  
 ![image](https://github.com/EightForest/EBFC/blob/main/images/Figure3.PNG)
