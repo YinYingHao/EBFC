@@ -9,5 +9,7 @@ Please click the link at https://github.com/EightForest/EBFC/archive/refs/heads/
   
 **Usage**  
 The software doesn’t require installation and simply double-click the ‘EBFC.exe’ to open it. Then you can see the opened window in your desktop.  
-
-![image](EBFC/images/Figure1.png)
+![image](https://github.com/EightForest/EBFC/blob/main/images/Figure1.PNG)  
+Next, you can easily obtain the results after the following two steps.  
+1. Input file: "taxonomy.tsv","EC_predicted.tsv","Micro_abundance.csv","Metab_KEGG_ID.csv","Metab_abundance.csv".
+![image](https://github.com/EightForest/EBFC/blob/main/images/Figure2.PNG)
