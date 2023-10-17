@@ -5,7 +5,7 @@ A novel enzyme-based functional correlations algorithm of metabolome-microbiome
 The EBFC software is provided for research purposes only. For commercial use, please contact me at 3119020093@stu.cpu.edu.cn.  
   
 **Download**  
-Please click the link at https://github.com/YinYingHao/EBFC/releases/download/untagged-dd1ce5412a056eee8224/EBFC.zip to download the EBFC software and other files.   
+Please copy the link at https://github.com/YinYingHao/EBFC/releases/download/untagged-dd1ce5412a056eee8224/EBFC.zip to download the EBFC software and other files.   
   
 **Usage**  
 The software doesn’t require installation and simply double-click the ‘EBFC.exe’ to open it. Then you can see the opened window in your desktop.  
