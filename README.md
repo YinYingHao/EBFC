@@ -17,11 +17,11 @@ Next, you can easily obtain the results after the following two steps.
   
     "EC_predicted.tsv": The file about predicted functional abundances based only on marker gene sequences, obtained from PICRUSt2.
   
-    "Micro_abundance.txt"(Tab-separated): The file about the abundances based only on marker gene sequences, obtained from QIIME2.  
+    "Micro_abundance.txt"(Tab-separated txt): The file about the abundances based only on marker gene sequences, obtained from QIIME2.  
   
-    "Metab_KEGG_ID.txt"(Tab-separated): The file about the KEGG ID based only on metabolites of interest, obtained from the KEGG database.  
+    "Metab_KEGG_ID.txt"(Tab-separated txt): The file about the KEGG ID based only on metabolites of interest, obtained from the KEGG database.  
   
-    "Metab_abundance.txt"(Tab-separated): The file about the abundances based only on metabolites of interest, obtained from XCMS.  
+    "Metab_abundance.txt"(Tab-separated txt): The file about the abundances based only on metabolites of interest, obtained from XCMS.  
   
 2. run the program  
 Then, you can click the ‘Start’ button to run the program.
