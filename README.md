@@ -11,17 +11,17 @@ Please click the link at https://github.com/YinYingHao/EBFC/releases/download/EB
 The software doesn’t require installation and simply double-click the ‘EBFC.exe’ to open it. Then you can see the opened window in your desktop.  
 ![image](https://github.com/YinYingHao/EBFC/blob/main/images/Figure1.PNG)  
 Next, you can easily obtain the results after the following two steps.  
-1. Input file: "taxonomy.tsv","EC_predicted.tsv","Micro_abundance.csv","Metab_KEGG_ID.csv","Metab_abundance.csv".
+1. Input file: "taxonomy.tsv","EC_predicted.tsv","Micro_abundance.txt","Metab_KEGG_ID.txt","Metab_abundance.txt".
 ![image](https://github.com/YinYingHao/EBFC/blob/main/images/Figure2.PNG)  
     "taxonomy.tsv": The file about annotation of the features that were observed in this study by performing taxonomic classification of the sequences, obtained from QIIME2.
   
     "EC_predicted.tsv": The file about predicted functional abundances based only on marker gene sequences, obtained from PICRUSt2.
   
-    "Micro_abundance.csv": The file about the abundances based only on marker gene sequences, obtained from QIIME2.  
+    "Micro_abundance.txt"(Tab-separated): The file about the abundances based only on marker gene sequences, obtained from QIIME2.  
   
-    "Metab_KEGG_ID.csv": The file about the KEGG ID based only on metabolites of interest, obtained from the KEGG database.  
+    "Metab_KEGG_ID.txt"(Tab-separated): The file about the KEGG ID based only on metabolites of interest, obtained from the KEGG database.  
   
-    "Metab_abundance.csv": The file about the abundances based only on metabolites of interest, obtained from XCMS.  
+    "Metab_abundance.txt"(Tab-separated): The file about the abundances based only on metabolites of interest, obtained from XCMS.  
   
 2. run the program  
 Then, you can click the ‘Start’ button to run the program.
