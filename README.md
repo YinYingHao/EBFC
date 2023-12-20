@@ -8,7 +8,7 @@ The EBFC software is provided for research purposes only. For commercial use, pl
 Please click the link at https://github.com/YinYingHao/EBFC/releases/download/EBFC/EBFC.zip to download the EBFC software and other files.   
   
 **Usage**  
-The software doesn’t require installation and simply double-click the ‘EBFC.exe’ to open it(Compatible exclusively with the Windows operating system.). Then you can see the opened window in your desktop.  
+The software doesn’t require installation and simply double-click the ‘EBFC.exe’ to open it (Compatible exclusively with the Windows operating system). Then you can see the opened window in your desktop.  
 ![image](https://github.com/YinYingHao/EBFC/blob/main/images/Figure1.PNG)  
 Next, you can easily obtain the results after the following two steps.  
 1. Input file: "taxonomy.tsv","EC_predicted.tsv","Micro_abundance.txt","Metab_KEGG_ID.txt","Metab_abundance.txt".
