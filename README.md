@@ -1,5 +1,5 @@
 # EBFC
-A novel enzyme-based functional correlations algorithm of metabolome-microbiome  
+A novel enzyme-based functional correlations algorithm of metabolome-microbiome.If you used this tool, please cite our article: Yin Y H, Li C H, Huang H P, et al. A novel enzyme-based functional correlation algorithm for multi-omics reveals the potential mechanisms of traditional Chinese medicines: Taking Jian-Pi-Yi-Shen formula as an example[J]. Journal of pharmaceutical and biomedical analysis, 2024, 241: 115973. https://doi.org/10.1016/j.jpba.2024.115973  
   
 **Statement of Use**  
 The EBFC software is provided for research purposes only. For commercial use, please contact me at 3119020093@stu.cpu.edu.cn.  
